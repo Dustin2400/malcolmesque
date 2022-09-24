@@ -1,0 +1,17 @@
+{
+  "name": "apollo-angular/http",
+  "description": "An Apollo Link to allow sending an http request per operation.",
+  "author": {
+    "name": "Kamil Kisiela",
+    "email": "kamil.kisiela@gmail.com",
+    "url": "https://github.com/kamilkisiela/"
+  },
+  "license": "MIT",
+  "sideEffects": false,
+  "module": "../fesm2015/ngApolloLinkHttp.mjs",
+  "typings": "ngApolloLinkHttp.d.ts",
+  "es2020": "../fesm2020/ngApolloLinkHttp.mjs",
+  "esm2020": "../esm2020/http/ngApolloLinkHttp.mjs",
+  "fesm2020": "../fesm2020/ngApolloLinkHttp.mjs",
+  "fesm2015": "../fesm2015/ngApolloLinkHttp.mjs"
+}
